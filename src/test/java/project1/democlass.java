@@ -6,6 +6,7 @@ public class democlass {
 		// TODO Auto-generated method stub
 		
 		System.out.print("Shivansh Pandey");
+		System.out.print("shivansh pandey is a great boy and he loves to eat icecream");
 
 	}
 
